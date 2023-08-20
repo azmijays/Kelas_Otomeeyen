@@ -2,7 +2,6 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from _pytest import mark
 from _pytest.mark.structures import Mark
-from time import sleep
 
 import pytest
 import time
